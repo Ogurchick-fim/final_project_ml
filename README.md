@@ -1,6 +1,7 @@
 # Deep Learning Semester Project
 
 **Bone Fracture Detection from Multi-Region X-Ray Images**
+https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data
 
 ---
 
@@ -145,8 +146,9 @@ plt.show()
 
 ## 9. Presentation (1 pt)
 
-- **Slides:** Cover motivation, model architecture, loss curves, and sample outputs.  
-- **Demo:** Interactive Colab notebook cell to upload a new X-ray and display prediction.
+<img width="572" alt="Screenshot 2025-05-09 at 11 23 21 PM" src="https://github.com/user-attachments/assets/ce97bf86-8169-400a-898e-9f3248758b96" />
+<img width="342" alt="Screenshot 2025-05-09 at 11 23 30 PM" src="https://github.com/user-attachments/assets/5035e1e7-86b1-4538-9885-f51d0e633f41" />
+
 
 ---
 
